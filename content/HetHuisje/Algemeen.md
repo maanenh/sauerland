@@ -2,8 +2,8 @@
 ## Ons huisje
 
 <div style="float:right">
-<img id="huisjeFoto1" /><br/><br/><br/>
-<img id="huisjeFoto3" />
+<img id="huisjeFoto1" src="abc"/><br/><br/><br/>
+<img id="huisjeFoto3" src="def"/>
 </div>
 
 Sinds 2004 hebben wij dit huisje in Sauerland. In de zomer een fijne plek om te luieren, te wandelen, te zwemmen en vuurtje te stoken.
@@ -15,6 +15,7 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 &nbsp;
 
 <img id="huisjeFoto2" />
+![](fotos/foto11.jpg)
 
 &nbsp;
 
