@@ -26,7 +26,7 @@ Guus Pol<br/>
 Wim van der Laan<br/>
 Hanno van Maanen
 
-<script>
+    <script>
     function calculateSummerWinter() {
         var today = new Date();
         var first = new Date(today.getFullYear(), 0, 1);
@@ -36,13 +36,17 @@ Hanno van Maanen
     }
 
     function setImageSource() {
+        console.log('setImageSource');
         var period = calculateSummerWinter();
-        $("#huisjeFoto1").attr("src", "fotos/" + period + "/foto1.jpg");
-        $("#huisjeFoto2").attr("src", "fotos/" + period + "/foto2.jpg");
-        $("#huisjeFoto3").attr("src", "fotos/" + period + "/foto3.jpg");
+        document["huisjeFoto1"].src = "src", "fotos/" + period + "/foto1.jpg";
+        document["huisjeFoto2"].src = "src", "fotos/" + period + "/foto2.jpg";
+        document["huisjeFoto3"].src = "src", "fotos/" + period + "/foto3.jpg";
+        //$("#huisjeFoto1").attr("src", "fotos/" + period + "/foto1.jpg");
+        //$("#huisjeFoto2").attr("src", "fotos/" + period + "/foto2.jpg");
+        //$("#huisjeFoto3").attr("src", "fotos/" + period + "/foto3.jpg");
     }
 
     setImageSource();
 
 
-</script>
+    </script>
