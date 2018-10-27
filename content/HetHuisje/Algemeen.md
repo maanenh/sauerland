@@ -27,7 +27,7 @@ Wim van der Laan<br/>
 Hanno van Maanen
 
 <script>
-
+    console.log('START SCRIPT);
     function calculateSummerWinter() {
         var today = new Date();
         var first = new Date(today.getFullYear(), 0, 1);
@@ -35,7 +35,6 @@ Hanno van Maanen
         var result = (dayOfYear < 60 || dayOfYear > 290)? 'winter': 'summer';
         return result;
     }
-
     function setImageSource() {
         console.log('setImageSource');
         var period = calculateSummerWinter();
@@ -46,8 +45,5 @@ Hanno van Maanen
         //$("#huisjeFoto2").attr("src", "fotos/" + period + "/foto2.jpg");
         //$("#huisjeFoto3").attr("src", "fotos/" + period + "/foto3.jpg");
     }
-
     setImageSource();
-
-
 </script>
