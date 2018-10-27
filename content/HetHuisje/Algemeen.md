@@ -2,7 +2,7 @@
 ## Ons huisje
 
 <div style="float:right">
-<img id="huisjeFoto1" src="abc"/><br/><br/><br/>
+<img id="huisjeFoto1" src="https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg"/><br/><br/><br/>
 <img id="huisjeFoto3" src="def"/>
 </div>
 
@@ -15,7 +15,7 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 &nbsp;
 
 <img id="huisjeFoto2" />
-![](fotos/foto11.jpg)
+![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 &nbsp;
 
