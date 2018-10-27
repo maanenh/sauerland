@@ -26,7 +26,8 @@ Guus Pol<br/>
 Wim van der Laan<br/>
 Hanno van Maanen
 
-    <script>
+<script>
+
     function calculateSummerWinter() {
         var today = new Date();
         var first = new Date(today.getFullYear(), 0, 1);
@@ -49,4 +50,4 @@ Hanno van Maanen
     setImageSource();
 
 
-    </script>
+</script>
