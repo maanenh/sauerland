@@ -40,6 +40,18 @@ We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#
 This is a paragraph.
 {: .customClass #custom_id attribute='value' }
 
+### Main point about code block 1
+
+```
+code block 1
+```
+
+More text explaining code block 2
+
+```
+code block 2
+```
+
 
 Lies Pol  
 Guus Pol  
