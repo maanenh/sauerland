@@ -26,11 +26,9 @@ Er is een grote tuin en dus zie of hoor je de buren niet. Het is er heerlijk rus
 Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
 &nbsp;
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 ![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
-
-
-![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 &nbsp;
 
