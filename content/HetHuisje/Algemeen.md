@@ -17,10 +17,7 @@ img[alt$="<>"] {
 }
 </style>
 
-
-![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)
-def
-
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg){.abc}
 
 Sinds 2004 hebben wij dit huisje in Sauerland. In de zomer een fijne plek om te luieren, te wandelen, te zwemmen en vuurtje te stoken.
 In de winter, als er sneeuw ligt, kun je er prima langlaufen. Maar ook zonder sneeuw is het heerlijk om buiten te zijn om te wandelen.
