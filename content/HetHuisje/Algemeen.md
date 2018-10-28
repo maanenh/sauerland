@@ -28,6 +28,7 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
 <br style="clear:right" />
 
+
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 
