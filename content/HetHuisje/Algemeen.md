@@ -19,7 +19,7 @@ img[alt$="<>"] {
 
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)
 
-<br style="clear:both" />
+<br style="clear:right" />
 
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
