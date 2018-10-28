@@ -22,8 +22,10 @@ img[alt$=">"] {
 }
 </style>
 
-![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg){: .right}
+
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
+
+[image alt >](../../fotos/winter/foto2.jpg)
 
 &nbsp;
 
