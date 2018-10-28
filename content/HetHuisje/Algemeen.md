@@ -25,11 +25,11 @@ Het huisje ligt buiten Oberhundem op een stuk grond met meerdere huisjes. Sommig
 Er is een grote tuin en dus zie of hoor je de buren niet. Het is er heerlijk rustig met veel groen een prettige atmosfeer.
 Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
-&nbsp;
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
-![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
+&nbsp;
 
+![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
 &nbsp;
 
 We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#/content/Verhuur/Beschikbaarheid) voor informatie over huren.
