@@ -18,7 +18,7 @@ img[alt$="<>"] {
 </style>
 
 
-![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)abc
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)
 def
 
 
