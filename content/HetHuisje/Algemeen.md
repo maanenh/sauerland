@@ -16,7 +16,14 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
 <img id="huisjeFoto2" />
 
-![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg){.right}
+<style>
+img[alt$=">"] {
+  float: right;
+}
+</style>
+
+![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg){: .right}
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
 
 &nbsp;
 
@@ -27,7 +34,7 @@ Lies Pol<br/>
 Guus Pol<br/>
 Wim van der Laan<br/>
 Hanno van Maanen
-
+<div>abc
 <script>
     console.log('START SCRIPT);
     function calculateSummerWinter() {
@@ -49,3 +56,4 @@ Hanno van Maanen
     }
     setImageSource();
 </script>
+</div
