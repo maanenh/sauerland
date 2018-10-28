@@ -21,6 +21,7 @@ img[alt$="<>"] {
 
 <br style="clear:right" />
 
+
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 Sinds 2004 hebben wij dit huisje in Sauerland. In de zomer een fijne plek om te luieren, te wandelen, te zwemmen en vuurtje te stoken.
