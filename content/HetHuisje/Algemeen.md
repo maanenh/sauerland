@@ -1,10 +1,23 @@
 
 ## Ons huisje
 
-<div style="float:right">
-<img id="huisjeFoto1" src="https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg"/><br/><br/><br/>
-<img id="huisjeFoto3" src="def"/>
-</div>
+<style>
+img[alt$=">"] {
+  float: right;
+}
+img[alt$="<"] {
+  float: left;
+}
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+</style>
+
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)
 
 Sinds 2004 hebben wij dit huisje in Sauerland. In de zomer een fijne plek om te luieren, te wandelen, te zwemmen en vuurtje te stoken.
 In de winter, als er sneeuw ligt, kun je er prima langlaufen. Maar ook zonder sneeuw is het heerlijk om buiten te zijn om te wandelen.
@@ -14,48 +27,17 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
 &nbsp;
 
-<img id="huisjeFoto2" />
-
-<style>
-img[alt$=">"] {
-  float: right;
-}
-</style>
+![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
 
 
-![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
-
-[image alt >](../../fotos/winter/foto2.jpg)
+![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
 &nbsp;
 
 We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#/content/Verhuur/Beschikbaarheid) voor informatie over huren.
 
 
-Lies Pol<br/>
-Guus Pol<br/>
-Wim van der Laan<br/>
+Lies Pol  
+Guus Pol  
+Wim van der Laan  
 Hanno van Maanen
-<div>abc
-<script>
-    console.log('START SCRIPT);
-    function calculateSummerWinter() {
-        var today = new Date();
-        var first = new Date(today.getFullYear(), 0, 1);
-        var dayOfYear = Math.round(((today - first) / 1000 / 60 / 60 / 24) + .5, 0);
-        var result = (dayOfYear < 60 || dayOfYear > 290)? 'winter': 'summer';
-        return result;
-    }
-    function setImageSource() {
-        console.log('setImageSource');
-        var period = calculateSummerWinter();
-        document["huisjeFoto1"].src = "src", "fotos/" + period + "/foto1.jpg";
-        document["huisjeFoto2"].src = "src", "fotos/" + period + "/foto2.jpg";
-        document["huisjeFoto3"].src = "src", "fotos/" + period + "/foto3.jpg";
-        //$("#huisjeFoto1").attr("src", "fotos/" + period + "/foto1.jpg");
-        //$("#huisjeFoto2").attr("src", "fotos/" + period + "/foto2.jpg");
-        //$("#huisjeFoto3").attr("src", "fotos/" + period + "/foto3.jpg");
-    }
-    setImageSource();
-</script>
-</div
