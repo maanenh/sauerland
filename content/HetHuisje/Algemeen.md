@@ -17,6 +17,8 @@ img[alt$="<>"] {
 }
 </style>
 
+<div class="someclass" markdown=1>
+
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto1.jpg)
 
 
@@ -25,6 +27,8 @@ In de winter, als er sneeuw ligt, kun je er prima langlaufen. Maar ook zonder sn
 Het huisje ligt buiten Oberhundem op een stuk grond met meerdere huisjes. Sommige huisjes worden permanent gebruikt en sommige alleen als vakantiehuisje.
 Er is een grote tuin en dus zie of hoor je de buren niet. Het is er heerlijk rustig met veel groen een prettige atmosfeer.
 Het huisje zelf is plezierig eenvoudig en goed ingericht.
+
+</div>
 
 <br style="clear:right" />
 
@@ -39,18 +43,6 @@ We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#
 
 This is a paragraph.
 {: .customClass #custom_id attribute='value' }
-
-### Main point about code block 1
-
-```
-code block 1
-```
-
-More text explaining code block 2
-
-```
-code block 2
-```
 
 
 Lies Pol  
