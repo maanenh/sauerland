@@ -30,10 +30,9 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
 ![image alt >](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto3.jpg)
 
-&nbsp;
 
-![image](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
-&nbsp;
+![image alt <](https://maanenh.home.xs4all.nl/sauerland/fotos/winter/foto2.jpg)
+
 
 We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#/content/Verhuur/Beschikbaarheid) voor informatie over huren.
 
