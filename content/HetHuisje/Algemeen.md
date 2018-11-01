@@ -11,7 +11,7 @@
 </style>
 
 
-{: .float-right .img-right .clearfix}
+{: .float-right .img-right}
 ![image](../../fotos/winter/foto1.jpg)<br/><br/><br/><br/><br/>
 ![image](../../fotos/winter/foto3.jpg)
 
@@ -33,4 +33,4 @@ Guus Pol
 Wim van der Laan  
 Hanno van Maanen
 
- style="clear:both;" 
+<p style="clear:both;" />
