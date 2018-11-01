@@ -2,17 +2,16 @@
 ## Ons huisje
 
 <style>
-.float-right {
+.img-right {
   max-width: 50%;
-  float: right;
 }
-.float-right > img {
+.img-right > img {
   max-width: 100%;
 }
 </style>
 
 
-{: .float-right}
+{: .float-right .img-right .clearfix}
 ![image](../../fotos/winter/foto1.jpg)<br/><br/><br/><br/><br/>
 ![image](../../fotos/winter/foto3.jpg)
 
@@ -34,4 +33,4 @@ Guus Pol
 Wim van der Laan  
 Hanno van Maanen
 
-<p style="clear:both;" />
+ style="clear:both;" 
