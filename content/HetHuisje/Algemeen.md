@@ -9,7 +9,6 @@
 .float-right > img {
   max-width: 100%;
 }
-
 </style>
 
 
@@ -23,7 +22,7 @@ Het huisje ligt buiten Oberhundem op een stuk grond met meerdere huisjes. Sommig
 Er is een grote tuin en dus zie of hoor je de buren niet. Het is er heerlijk rustig met veel groen een prettige atmosfeer.
 Het huisje zelf is plezierig eenvoudig en goed ingericht.
 
-{: .d-none .d-sm-block}
+{: .d-none .d-md-block}
 ![image](../../fotos/winter/foto2.jpg)
 
 
