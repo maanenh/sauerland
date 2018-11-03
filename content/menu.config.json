@@ -1,0 +1,52 @@
+﻿{   "_comment": "De menu structuur. Deze file is UTF8 encoded, vanwege diacriten",
+	"menu": [
+		{"id": "HetHuisje", "title": "Het Huisje",
+		 "sub": [
+			{"title": "Algemeen"},
+			{"title": "Interieur"},
+			{"title": "Voorzieningen"},
+            {"title":"Adres & Route", "id": "AdresEnRoute"}
+			]
+		},
+		{"title": "Omgeving",
+		 "sub": [
+			{"title": "Plattegrond"},
+			{"title": "Oberhundem"},
+			{"title": "Activiteiten"},
+            {"title": "Voorzieningen"},
+            {"title": "Panoramapark"}
+			]
+		},
+        {"title": "Fotogalerij",
+            "sub": [
+                {"title": "Fotogalerij"}
+                ]
+        },
+		{"title": "Buitensport",
+		 "sub": [
+			{"title": "Wandelen"},
+			{"title": "Fietsen"},
+			{"title": "Skiën", "id": "Ski"},
+			{"title": "Langlaufen"},
+			{"title": "Klimmen"}
+			]
+		},
+		{"title": "Verhuur",
+		 "sub": [
+			{"title": "Beschikbaarheid"}
+			]
+		},
+        {"title": "Informatie",
+            "sub": [
+                {"title": "Informatie"},
+                {"title": "Weersverwachting"},
+                {"title": "Sneeuwverwachting"}
+            ]
+        },
+        {"title": "Contact",
+            "sub": [
+                {"title": "Contact"}
+            ]
+        }
+	]
+}
