@@ -26,6 +26,6 @@ Voor de GPS: UTM-coördinaten 32U 0442344/5658916
 
 Voor de routeplanner: de postcode is 57399
 
-![](fotos/arnhemOberhundem2.gif)
+![](../../fotos/arnhemOberhundem2.gif)
 
-![](fotos/Oberhundem2.gif)
+![](../../fotos/Oberhundem2.gif)
