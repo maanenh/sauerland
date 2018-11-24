@@ -28,6 +28,7 @@
 
 <script type="text/javascript">
 
+    console.log('JAVASCRIPT FROM CONTENT');
 
     var feriendorf = new google.maps.LatLng(51.078791,8.176789);
 

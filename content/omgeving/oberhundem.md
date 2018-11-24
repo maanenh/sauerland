@@ -5,6 +5,6 @@
 [http://www.lennestadt-kirchhundem.info](http://www.lennestadt-kirchhundem.info)
 
 
-![](fotos/oberhundem4.gif)
+![](../../fotos/oberhundem4.gif)
 
 
