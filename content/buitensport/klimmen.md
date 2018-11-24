@@ -222,7 +222,6 @@
 </script>
 
 
-<h2>Klimmen</h2>
 <p>
 Bij Nederlandse klimmers zijn de klimgebieden van het Sauerland nog niet erg bekend. Toch zijn hier tal van kleine klimgebieden. Eind mei 2013 is één van de grootste klimgebieden van het Sauerland feestelijk geopend; <br/>de <a href="http://kletterarena.info/hillenberg.php">Hilleberg bij Warstein.</a>
 </p>
