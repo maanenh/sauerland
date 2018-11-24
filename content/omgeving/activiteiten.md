@@ -1,5 +1,4 @@
 
-## Enkele activiteiten in de omgeving:
 
 * Winterberg is een bekende wintersportplaats, die prima geschikt is voor een weekendje skieën. Vanaf het huisje is het ca 45 km naar Winterberg  
 [http://www.winterberg.de](http://www.winterberg.de)
@@ -17,7 +16,7 @@ Finnentroper Straße 39
 * Diverse [buitensport activiteiten](#/content/Buitensport/Wandelen) elders op deze site.
 
 
-## Zwemmen:
+#### Zwemmen:
 
 * Overdekt bad in Oberhundem zelf (naast het Slot in het dorp)  
 Hauptstrasse 3  

@@ -1,6 +1,4 @@
 
-## Ons huisje
-
 <style>
 .img-right {
   max-width: 50%;

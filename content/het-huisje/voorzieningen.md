@@ -1,6 +1,4 @@
 
-## Voorzieningen
-
 Het vakantiehuisje is volledig ingericht voor maximaal 6 personen en heeft de volgende voorzieningen:
 
 * een woonkamer met een zitgedeelte en een eethoek.

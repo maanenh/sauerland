@@ -1,4 +1,3 @@
-## Contact
 
 Voor vragen, huren of reserveren kunt u contact opnemen met Guus Pol.
 

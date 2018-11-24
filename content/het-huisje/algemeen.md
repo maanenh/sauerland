@@ -1,5 +1,4 @@
 
-## Ons huisje
 
 <style>
 .img-right {
