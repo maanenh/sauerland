@@ -51,10 +51,6 @@ Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 ---
 
 {: .float-right .img-right}

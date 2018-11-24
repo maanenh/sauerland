@@ -24,8 +24,6 @@ ul.price-list {
 
 
 <div class="leftCol">
-
-<h2>Beschikbaarheid</h2>
 <br><br>
 <iframe height="350" src="http://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe>
 
