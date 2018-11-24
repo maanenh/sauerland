@@ -1,12 +1,14 @@
 
-<style>
 
-[alt="rothaarLoipe"], [alt="knulleLoipe"] {
-	float: right;
+<style>
+.img-right {
+  max-width: 50%;
+}
+.img-right > img {
+  max-width: 100%;
 }
 </style>
 
-## Langlaufen
 
 In de omgeving van het huisje zijn prachtige langlauftochten te maken. Bij veel sneeuw direct vanuit het huis, bij wat minder sneeuw b.v. vanaf de op 5 km afstand gelegen Rein-Wesser-Turm:
 
@@ -19,15 +21,16 @@ Enkele links:
 
 &nbsp; 
 
-![rothaarLoipe](fotos/img_0078.jpg)
+{: .float-right .img-right}
+![rothaarLoipe](../../fotos/img_0078.jpg)
 
 &nbsp;
 
 * "Rothaar-Loipe": Länge 52 km,  
 Höhendifferenz 160 m ; Rhein-Weser-Turm  -  Jagdhaus – Kühhude – Albrechtsplatz und parallel zurück zum Rhein-Weser-Turm; innerhalb der Rothaar-Loipe gibt es 5 verschiedene Schleifen von 3 / 6 / 8 / 12 und 16 km Länge mit Höhendifferenzen von 20 / 40 / 50 und 70 Metern.
 
-
-![knulleLoipe](fotos/img_0079.jpg)
+{: .float-right .img-right}
+![knulleLoipe](../../fotos/img_0079.jpg)
 
 &nbsp;
 

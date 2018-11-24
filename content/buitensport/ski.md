@@ -7,7 +7,17 @@
 </style>
 
 
-## Skiën
+<style>
+.img-right {
+  max-width: 50%;
+}
+.img-right > img {
+  max-width: 100%;
+}
+</style>
+
+
+
 
 [Klik hier](#/content/Informatie/Sneeuwverwachting) voor links naar actuele sneeuwberichten.
 
@@ -17,8 +27,8 @@ Dichterbij ligt Schmallenberg. Informatie op [http://www.schmallenberg.de](http:
 en [http://www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 
 ---
-
-![pistenplan](fotos/pistenplan.jpg)
+{: .float-right .img-right}
+![pistenplan](../../fotos/pistenplan.jpg)
 
 
 &nbsp;
@@ -47,7 +57,8 @@ Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 
 ---
 
-![pisteOberhundem](fotos/pisteOberhundem.jpg)
+{: .float-right .img-right}
+![pisteOberhundem](../../fotos/pisteOberhundem.jpg)
 
 
 ***Skipiste Oberhundem***

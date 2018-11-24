@@ -41,7 +41,7 @@ Andere aankomst- of vertrektijd of eerder dan 6 maanden boeken kan in overleg.
 </p>
 <h2>Voorzieningen</h2>
 <p>
-<a href="#/content/HetHuisje/Voorzieningen">Zie hier voor de voorzieningen.</a>
+<a href="#/content/het-huisje/voorzieningen">Zie hier voor de voorzieningen.</a>
 </p>
 <h2>Kosten</h2>
 <p>

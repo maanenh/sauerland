@@ -1,13 +1,17 @@
 
-<style>
 
-[alt="sneeuwlandschap"] {
-	float: right;
+<style>
+.img-right {
+  max-width: 50%;
+}
+.img-right > img {
+  max-width: 100%;
 }
 </style>
 
 
-![sneeuwlandschap](fotos/img_0080.jpg)
+{: .float-right .img-right}
+![sneeuwlandschap](../../fotos/img_0080.jpg)
 
 In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig zijn.
 
