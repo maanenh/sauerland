@@ -23,16 +23,13 @@ Enkele links:
 
 {: .float-right .img-right}
 ![rothaarLoipe](../../fotos/img_0078.jpg)
+![knulleLoipe](../../fotos/img_0079.jpg)
 
 &nbsp;
 
 * "Rothaar-Loipe": Länge 52 km,  
 Höhendifferenz 160 m ; Rhein-Weser-Turm  -  Jagdhaus – Kühhude – Albrechtsplatz und parallel zurück zum Rhein-Weser-Turm; innerhalb der Rothaar-Loipe gibt es 5 verschiedene Schleifen von 3 / 6 / 8 / 12 und 16 km Länge mit Höhendifferenzen von 20 / 40 / 50 und 70 Metern.
 
-{: .float-right .img-right}
-![knulleLoipe](../../fotos/img_0079.jpg)
-
-&nbsp;
 
 &nbsp;
 
