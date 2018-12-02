@@ -14,6 +14,14 @@ In de omgeving van het huisje zijn prachtige langlauftochten te maken. Bij veel 
 
 Enkele links:
 
+Langlauf bij <a href="https://www.sauerland.com/Media/Attraktionen/Langlaufgebiet-Rhein-Weser-Turm" target="_blank">Rhein-Wesser-Turm</a>
+
+<a href="https://www.nkbvwebshop.nl/toposauerland" target="_blank">klimtopo van het Sauerland</a> 
+
+<p>
+Langlauf bij <a href="https://www.sauerland.com/Media/Attraktionen/Langlaufgebiet-Rhein-Weser-Turm" target="_blank">Rhein-Wesser-Turm</a>
+</p>
+
 * Langlauf bij <a href="https://www.sauerland.com/Media/Attraktionen/Langlaufgebiet-Rhein-Weser-Turm" target="_blank">Rhein-Wesser-Turm</a>
 * Loipe <a href="http://www.loipenportal.de/sauerland?sid=10580" target="_blank">Klein Rothhaarloipe</a>
 * Loipe <a href="http://www.loipenportal.de/sauerland?sid=10577" target="_blank">Knulle Loipe</a>
