@@ -1,6 +1,4 @@
 
-
-
 <style>
 .max-100 > img {
   max-width: 100%;
