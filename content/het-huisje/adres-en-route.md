@@ -1,8 +1,3 @@
-<style>
-.max-100 > img {
-  max-width: 70%;
-}
-</style>
 
 
 Feriendorf 4<br/>
@@ -31,7 +26,7 @@ Voor de GPS: UTM-coördinaten 32U 0442344/5658916
 
 Voor de routeplanner: de postcode is 57399
 
-{: .max-100}
+
 ![](../../fotos/arnhemOberhundem2.gif)
 <br><br>
 ![](../../fotos/Oberhundem2.gif)

@@ -227,10 +227,10 @@ Bij Nederlandse klimmers zijn de klimgebieden van het Sauerland nog niet erg bek
 </p>
 
 <p>
-Voor meer info zie: <a href="http://kletterarena.info/">http://kletterarena.info</a> en <a href="http://felsinfo.alpenverein.de/">http://felsinfo.alpenverein.de/</a>. Ook op de site van de NKBV is informatie te vinden over deze gebieden. Zie: <a href="http://www.nkbv.nl/sportklimmen/klimgebieden/klimmen-in-duitsland">http://www.nkbv.nl/sportklimmen/klimgebieden/klimmen-in-duitsland</a>.
+Voor meer info zie: <a href="http://kletterarena.info/">http://kletterarena.info</a> en <a href="http://felsinfo.alpenverein.de/">http://felsinfo.alpenverein.de/</a>.
 </p>
 <p>
-In de NKBV-webshop kun je de <a href="http://www.nkbv.nl/webshop/Land+der+tausend+Berge+-+Sauerland+/112">klimtopo van het Sauerland</a> kopen. 
+In de NKBV-webshop kun je de <a href="https://www.nkbvwebshop.nl/toposauerland" target="_blank">klimtopo van het Sauerland</a> kopen. 
 </p>
 <p style="color: red;">Let op: Sommige gebieden kunnen gesloten zijn vanwege steenslaggevaar of natuurbescherming. Kijk daarom ook altijd op <a href="http://kletterarena.info/klettergebiete.php">http://kletterarena.info/klettergebiete.php</a>.</p>
 <img src="../../fotos/klimmen.jpg"/>

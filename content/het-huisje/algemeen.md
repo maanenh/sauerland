@@ -24,7 +24,7 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 ![image](../../fotos/winter/foto2.jpg)
 
 
-We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](#/content/Verhuur/Beschikbaarheid) voor informatie over huren.
+We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](../verhuur#top) voor informatie over huren.
 
 
 Lies Pol  
