@@ -4,9 +4,6 @@
 .img-right {
   max-width: 50%;
 }
-.img-right > img {
-  max-width: 100%;
-}
 </style>
 
 

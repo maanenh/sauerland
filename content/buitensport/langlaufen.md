@@ -1,11 +1,8 @@
 
 
 <style>
-.img-right {
+.max-50 {
   max-width: 50%;
-}
-.img-right > img {
-  max-width: 100%;
 }
 </style>
 
@@ -30,7 +27,7 @@ Langlauf bij <a href="https://www.sauerland.com/Media/Attraktionen/Langlaufgebie
 
 &nbsp; 
 
-{: .float-right .img-right}
+{: .float-right .max-50}
 ![rothaarLoipe](../../fotos/img_0078.jpg)
 ![knulleLoipe](../../fotos/img_0079.jpg)
 

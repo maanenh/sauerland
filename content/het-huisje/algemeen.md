@@ -1,13 +1,13 @@
 
 
 <style>
-.img-right {
+.max-50 {
   max-width: 50%;
 }
 </style>
 
 
-{: .float-right .img-right}
+{: .float-right .max-50}
 ![image](../../fotos/winter/foto1.jpg)<br/><br/><br/><br/><br/>
 ![image](../../fotos/winter/foto3.jpg)
 
