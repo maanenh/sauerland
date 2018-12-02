@@ -233,7 +233,7 @@ Voor meer info zie: <a href="http://kletterarena.info/">http://kletterarena.info
 In de NKBV-webshop kun je de <a href="http://www.nkbv.nl/webshop/Land+der+tausend+Berge+-+Sauerland+/112">klimtopo van het Sauerland</a> kopen. 
 </p>
 <p style="color: red;">Let op: Sommige gebieden kunnen gesloten zijn vanwege steenslaggevaar of natuurbescherming. Kijk daarom ook altijd op <a href="http://kletterarena.info/klettergebiete.php">http://kletterarena.info/klettergebiete.php</a>.</p>
-<img src="fotos/klimmen.jpg"/>
+<img src="../../fotos/klimmen.jpg"/>
 
 <h2>Lokaties van de klimrotsen</h2>
 <p>Hieronder op de kaart de kliklocaties. Door te klikken op de "markers" is meer informatie te krijgen.</p>
