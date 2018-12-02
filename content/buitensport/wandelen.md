@@ -17,7 +17,8 @@ In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrij
 
 Tevens is een topografische kaart van het gebied aanwezig.
 
-Zie [http://www.rothaarsteig.de](http://www.rothaarsteig.de) voor informatie over de rothaarsteig.
+Zie <a href="http://www.rothaarsteig.de" target="_blank">http://www.rothaarsteig.de</a> voor informatie over de rothaarsteig.
+
 
 
 De volgende routebeschrijvingen zijn aanwezig: 

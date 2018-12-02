@@ -14,10 +14,11 @@ In de omgeving van het huisje zijn prachtige langlauftochten te maken. Bij veel 
 
 Enkele links:
 
-* Langlauf bij [Rhein-Wesser-Turm](http://www.nordicsport-arena.de/de/nsa/skigebiete/detail/rhein-weser-turm-9842)
-* Loipe [Klein Rothhaarloipe](http://www.loipenportal.de/sauerland?sid=10580 )
-* Loipe [Knulle Loipe](http://www.loipenportal.de/sauerland?sid=10577 )
-* Loipe [Margarethenstein-Loipe](http://www.loipenportal.de/sauerland?sid=10330 )
+* Langlauf bij <a href="https://www.sauerland.com/Media/Attraktionen/Langlaufgebiet-Rhein-Weser-Turm" target="_blank">Rhein-Wesser-Turm</a>
+* Loipe <a href="http://www.loipenportal.de/sauerland?sid=10580" target="_blank">Klein Rothhaarloipe</a>
+* Loipe <a href="http://www.loipenportal.de/sauerland?sid=10577" target="_blank">Knulle Loipe</a>
+* Loipe <a href="http://www.loipenportal.de/sauerland?sid=10330" target="_blank">Margarethenstein-Loipe</a>
+
 
 &nbsp; 
 
@@ -35,7 +36,7 @@ Höhendifferenz 160 m ; Rhein-Weser-Turm  -  Jagdhaus – Kühhude – Albrechts
 
 &nbsp;
 
-* "Knülle-Loipe": Länge 4 km;
+* "Knülle-Loipe": Länge 4 km;  
 Höhendifferenz 10 m
 * "Westerberg-Loipe": Länge 4 km,  
 Höhendifferenz 40 m
