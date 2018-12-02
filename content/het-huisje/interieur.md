@@ -2,7 +2,7 @@
 
 
 <style>
-.max-100 {
+.max-100 > img {
   max-width: 100%;
 }
 </style>
@@ -10,6 +10,5 @@
 
 {: .max-100}
 ![](../../fotos/foto10.jpg)
-
-{: .max-100}
+<br><br>
 ![](../../fotos/foto11.jpg)

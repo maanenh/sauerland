@@ -39,3 +39,5 @@ Höhendifferenz 160 m ; Rhein-Weser-Turm  -  Jagdhaus – Kühhude – Albrechts
 Höhendifferenz 10 m
 * "Westerberg-Loipe": Länge 4 km,  
 Höhendifferenz 40 m
+
+<p style="clear:both;" />
