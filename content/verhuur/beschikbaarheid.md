@@ -53,15 +53,15 @@ Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
 <p>
 Voor meer informatie kunt u contact opnemen met Guus Pol. <a href="#/content/Contact/Contact">Zie de contact pagina.</a>
 </p>
-<h2>Onze collega's</h2>
-<p>
+
+### Onze collega's
+
 In hetzelfde park zijn ook een aantal andere huisjes te huur. Handig als je twee huisjes wilt huren omdat je met een grote groep wilt komen. Informatie via:
 
-<br/><a href="http://www.feriendorf-oberhundem.de/">http://www.feriendorf-oberhundem.de/</a>
-<br/><a href="http://www.haus-silva.de/">http://www.haus-silva.de/</a>
+* [http://www.feriendorf-oberhundem.de/](http://www.feriendorf-oberhundem.de/)
+* [http://www.haus-silva.de/](http://www.haus-silva.de/)
 
-</p>
-</div>
 
-<span class="clear-float" markdown="1"/>
+<p style="clear:both;" />
+
 

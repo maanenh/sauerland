@@ -21,6 +21,7 @@ Enkele links:
 
 {: .float-right .max-50}
 ![rothaarLoipe](../../fotos/img_0078.jpg)
+
 &nbsp;
 
 * "Rothaar-Loipe": Länge 52 km,  
