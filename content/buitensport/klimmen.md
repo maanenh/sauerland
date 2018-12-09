@@ -222,17 +222,18 @@
 </script>
 
 
-<p>
-Bij Nederlandse klimmers zijn de klimgebieden van het Sauerland nog niet erg bekend. Toch zijn hier tal van kleine klimgebieden. Eind mei 2013 is één van de grootste klimgebieden van het Sauerland feestelijk geopend; <br/>de <a href="http://kletterarena.info/hillenberg.php">Hilleberg bij Warstein.</a>
-</p>
 
-<p>
-Voor meer info zie: <a href="http://kletterarena.info/">http://kletterarena.info</a> en <a href="http://felsinfo.alpenverein.de/">http://felsinfo.alpenverein.de/</a>.
-</p>
-<p>
-In de NKBV-webshop kun je de <a href="https://www.nkbvwebshop.nl/toposauerland" target="_blank">klimtopo van het Sauerland</a> kopen. 
-</p>
-<p style="color: red;">Let op: Sommige gebieden kunnen gesloten zijn vanwege steenslaggevaar of natuurbescherming. Kijk daarom ook altijd op <a href="http://kletterarena.info/klettergebiete.php">http://kletterarena.info/klettergebiete.php</a>.</p>
+Bij Nederlandse klimmers zijn de klimgebieden van het Sauerland nog niet erg bekend. Toch zijn hier tal van kleine klimgebieden. Eind mei 2013 is één van de grootste klimgebieden van het Sauerland feestelijk geopend; <br/>
+de [Hilleberg bij Warstein](http://kletterarena.info/hillenberg.php)
+
+
+Voor meer info zie: [http://kletterarena.info](http://kletterarena.info) en [http://felsinfo.alpenverein.de](http://felsinfo.alpenverein.de)
+
+
+In de NKBV-webshop kun je de [klimtopo van het Sauerland](https://www.nkbvwebshop.nl/toposauerland) kopen. 
+
+**Let op: Sommige gebieden kunnen gesloten zijn vanwege steenslaggevaar of natuurbescherming. Kijk daarom ook altijd op [http://kletterarena.info/klettergebiete.php](http://kletterarena.info/klettergebiete.php)**
+
 <img src="../../fotos/klimmen.jpg"/>
 
 <h2>Lokaties van de klimrotsen</h2>
