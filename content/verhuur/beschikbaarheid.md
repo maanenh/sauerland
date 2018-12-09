@@ -39,7 +39,7 @@ Andere aankomst- of vertrektijd of eerder dan 6 maanden boeken kan in overleg.
 </p>
 <h2>Voorzieningen</h2>
 <p>
-<a href="#/content/het-huisje/voorzieningen">Zie hier voor de voorzieningen.</a>
+<a href="./het-huisje#voorzieningen">Zie hier voor de voorzieningen.</a>
 </p>
 <h2>Kosten</h2>
 <p>
@@ -51,7 +51,7 @@ Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
 </ul>
 </p>
 <p>
-Voor meer informatie kunt u contact opnemen met Guus Pol. <a href="#/content/Contact/Contact">Zie de contact pagina.</a>
+Voor meer informatie kunt u contact opnemen met Guus Pol. <a href="./contact#top">Zie de contact pagina.</a>
 </p>
 
 ### Onze collega's
