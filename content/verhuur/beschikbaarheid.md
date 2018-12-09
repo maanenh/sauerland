@@ -50,9 +50,9 @@ Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
 <li>In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50</li>
 </ul>
 </p>
-<p>
-Voor meer informatie kunt u contact opnemen met Guus Pol. <a href="./contact#top">Zie de contact pagina.</a>
-</p>
+
+Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
+
 
 ### Onze collega's
 
