@@ -32,10 +32,10 @@ Voor de routeplanner: de postcode is 57399
 ![](../../fotos/Oberhundem2.gif)
 
 
-{: <React/>}
+{: $React}
 Meer tekst
 En nog meer
 
 En weer een volgende paragraaf
 
-{: <React/>}
+{: $React}
