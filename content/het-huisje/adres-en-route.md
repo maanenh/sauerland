@@ -31,14 +31,3 @@ Voor de routeplanner: de postcode is 57399
 <br><br>
 ![](../../fotos/Oberhundem2.gif)
 
-
-{: $React MakeMap}
-
-
-En weer een volgende ClimbingMap
-
-{: $React ClimbingMap}
-
-and now unkonwd
-
-{: $React UnknownComp}
