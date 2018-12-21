@@ -234,9 +234,10 @@ In de NKBV-webshop kun je de [klimtopo van het Sauerland](https://www.nkbvwebsho
 
 **Let op: Sommige gebieden kunnen gesloten zijn vanwege steenslaggevaar of natuurbescherming. Kijk daarom ook altijd op [http://kletterarena.info/klettergebiete.php](http://kletterarena.info/klettergebiete.php)**
 
-<img src="../../fotos/klimmen.jpg"/>
+![image](../../fotos/klimmen.jpg)
 
-<h2>Lokaties van de klimrotsen</h2>
-<p>Hieronder op de kaart de kliklocaties. Door te klikken op de "markers" is meer informatie te krijgen.</p>
-<div id="map-canvas"></div>
-<div>&nbsp;</div>
+### Lokaties van de klimrotsen
+Hieronder op de kaart de kliklocaties. Door te klikken op de "markers" is meer informatie te krijgen.
+
+{: $React ClimbingMap}
+
