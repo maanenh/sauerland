@@ -18,7 +18,7 @@ Een pretpark met de mooiste rollerbobbaan van Duitsland, glijbanen, labyrinth en
 
 Het park is van mei t/m oktober vrijwel doorlopend geopend.
 
-Kijk voor informatie op de website [http://www.panopark.de](http://www.panopark.de)
+Kijk voor informatie op de website [www.panopark.de](http://www.panopark.de)
 
 
 ![](../../fotos/panoramaParkRodelbahn.jpg)

@@ -23,8 +23,8 @@
 
 Winterberg en Willingen zijn de bekendste wintersportplaatsen in het Sauerland. Winterberg ligt op ca 45 km afstand. Willingen op is ruim 65. 
 
-Dichterbij ligt Schmallenberg. Informatie op [http://www.schmallenberg.de](http://www.schmallenberg.de) 
-en [http://www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
+Dichterbij ligt Schmallenberg. Informatie op [www.schmallenberg.de](http://www.schmallenberg.de) 
+en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 
 ---
 {: .float-right .img-right}
@@ -35,7 +35,7 @@ en [http://www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerlan
 
 ***Fahlenscheid***
 
-Op circa 20 km afstand ligt Fahlenscheid [http://www.fahlenscheid.de](http://www.fahlenscheid.de). 
+Op circa 20 km afstand ligt Fahlenscheid ([www.fahlenscheid.de](http://www.fahlenscheid.de)). 
 Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 
 

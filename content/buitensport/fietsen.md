@@ -25,7 +25,7 @@ In het huisje liggen diverse fietsroutekaarten, en de routes zijn langs de weg o
 
 Voor de mountainbikers zijn er vooral routes uitgezet en gemarkeerd in Hochsauerland, rond Winterberg. Er zijn echter ook rond Oberhundem talloze mogelijkheden over boswegen en  paden. Liefhebbers zouden de gemarkeerde wandelroutes kunnen volgen.
 Veel van de fiets- en mountainbikeroutes zijn gemarkeerd door "Bike Arena Sauerland". Behalve gedrukte kaarten (waarvan enkele in het huisje) hebben zij een 
-uitgebreide website, [http://www.bike-arena.de](http://www.bike-arena.de). 
+uitgebreide website, [www.bike-arena.de](http://www.bike-arena.de). 
 Van die site zijn ook veel GPS-tracks van fietsroutes te downloaden.
 
 
