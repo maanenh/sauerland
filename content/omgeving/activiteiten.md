@@ -7,13 +7,13 @@
 [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 * minigolf in Schmallenberg
 * Ponyhof Rohde in Kirchhundem (voor de kinderen), Varster Str. 23, telefoon 02764 - 939158
-* [Panoramapark](#/content/Omgeving/Panoramapark) op slechts enkele kilometers
+* [Panoramapark](#panoramapark) op slechts enkele kilometers
 * Atta grot   (druipsteengrot )  
 32 km afstand   Zie: [www.atta-hoehle.de](http://www.atta-hoehle.de)  
 Atta-Höhle  
 Finnentroper Straße 39  
 57439 Attendorn
-* Diverse [buitensport activiteiten](#/content/Buitensport/Wandelen) elders op deze site.
+* Diverse [buitensport activiteiten](./buitensport#top) elders op deze site.
 
 
 #### Zwemmen:
