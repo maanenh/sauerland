@@ -33,7 +33,7 @@ en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 
 &nbsp;
 
-***Fahlenscheid***
+#### Fahlenscheid
 
 Op circa 20 km afstand ligt Fahlenscheid ([www.fahlenscheid.de](http://www.fahlenscheid.de)). 
 Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
@@ -57,7 +57,7 @@ Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 ![pisteOberhundem](../../fotos/pisteOberhundem.jpg)
 
 
-***Skipiste Oberhundem***
+#### Skipiste Oberhundem
 
 Op enkele kilometers vanaf het huis is ook een kleine piste. Voor een middagje skiën of een poosje oefenen prima geschikt. Vanaf het huisje richting Panorama-park, de parkeerplaats is rechts, de piste links.
 
@@ -74,5 +74,5 @@ Kinderen     € 3,30
 
 Skihut aanwezig, geen materiaal huur
 
-[http://www.oberhundem.com/index.php/Wintersport.html](http://www.oberhundem.com/index.php/Wintersport.html)
+[Klik hier voor meer info](https://www.skiresort.nl/skigebied/oberhundem-kirchhundem/)
 

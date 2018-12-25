@@ -25,13 +25,16 @@ ul.price-list {
 
 <div class="leftCol">
 <br><br>
-<iframe height="350" src="http://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe>
+<iframe height="350" src="https://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe>
 
 </div>
 
 <div class="rightCol">
 
 <h2>Verhuur</h2>
+<p>
+Wij verhuren het huisje graag voor een redelijk bedrag aan familie, vrienden en bekenden.
+</p>
 <p>
 Het huisje kan vanaf 6 maanden voor de huurperiode gereserveerd worden.
 Het is dan voor elke periode te huur. Aankomst vanaf 13:00 uur, vertrek voor 12:00 uur.  
@@ -41,15 +44,15 @@ Andere aankomst- of vertrektijd of eerder dan 6 maanden boeken kan in overleg.
 <p>
 <a href="./het-huisje#voorzieningen">Zie hier voor de voorzieningen.</a>
 </p>
+<div class="price-list">
 <h2>Kosten</h2>
-<p>
-<ul class="price-list">
+<ul>
 <li>€ 35,- per nacht, ongeacht het aantal personen (max. 6).</li>
 <li>€ 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)<br>
 Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
 <li>In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50</li>
 </ul>
-</p>
+</div>
 
 Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
 
