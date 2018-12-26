@@ -3,15 +3,17 @@
 .leftCol {
 	float: left;
 	display: block;
-	width: 280px;
+	width: 30%;
+	min-width: 250px;
 	margin-right: 25px;
 	margin-top: 40px;
+	
 }
 
 .rightCol {
 	float: left;
 	display: block;
-	width: 380px;
+	width: 60%;
 	margin-right: 25px;
 }
 ul.price-list {
