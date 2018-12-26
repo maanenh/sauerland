@@ -14,9 +14,6 @@
 	width: 380px;
 	margin-right: 25px;
 }
-.clear-float {
-	clear: both;
-}
 ul.price-list {
 	 margin-left: 10px;
 	 padding: 0 0 0 12px;
@@ -42,16 +39,20 @@ ul.price-list {
     <p>
         <a href="./het-huisje#voorzieningen">Zie hier voor de voorzieningen.</a>
     </p>
-    <div class="price-list">
+    <div>
         <h2>Kosten</h2>
-        <ul>
-        <li>€ 35,- per nacht, ongeacht het aantal personen (max. 6).</li>
-        <li>€ 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)<br>
-        Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
-        <li>In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50</li>
+        <ul class="price-list">
+            <li>€ 35,- per nacht, ongeacht het aantal personen (max. 6).</li>
+            <li>€ 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)<br>
+            Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
+            <li>In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50</li>
         </ul>
     </div>
 </div>
+
+
+<p style="clear:both;" />
+
 
 Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
 
