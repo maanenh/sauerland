@@ -63,10 +63,8 @@ Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina
 
 In hetzelfde park zijn ook een aantal andere huisjes te huur. Handig als je twee huisjes wilt huren omdat je met een grote groep wilt komen. Informatie via:
 
-* [http://www.feriendorf-oberhundem.de/](http://www.feriendorf-oberhundem.de/)
-* [http://www.haus-silva.de/](http://www.haus-silva.de/)
+* [feriendorf-oberhundem.de](http://feriendorf-oberhundem.de/)
+* [www.haus-silva.de](http://www.haus-silva.de/)
 
-
-<p style="clear:both;" />
 
 
