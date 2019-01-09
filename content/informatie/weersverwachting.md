@@ -1,8 +1,5 @@
 
 
-iframe id="forecast_embed" type="text/html" frameborder="0" height="205px" width="500px" src="https://forecast.io/embed/#lat=51.0787&lon=8.1767&name=Oberhundem&units=ca"
-
-<iframe id="ds_a20086e60bd41273278f035a75a67da7" type="text/html" frameborder="0" height="300" width="100%" src="https://darksky.net/widget/default/51.0787,8.1767/ca12/nl?domain=http%3A%2F%2Flocalhost%3A3000%2F&amp;auth=1547072729_85ee8bacb7da1f5f4e5ea3ca66b1f8c4&amp;width=100%25&amp;height=300&amp;title=Oberhundem&amp;textColor=333333&amp;bgColor=FFFFFF&amp;transparency=false&amp;skyColor=undefined&amp;fontFamily=Default&amp;customFont=&amp;units=ca&amp;htColor=333333&amp;ltColor=C7C7C7&amp;displaySum=yes&amp;displayHeader=yes"></iframe>
 
 
 <hr/>
