@@ -1,6 +1,11 @@
 
 
 <style>
+@media only screen and (max-width: 700px) {
+  .img-right {
+    display: none;
+  }
+}
 .img-right {
   max-width: 50%;
 }
