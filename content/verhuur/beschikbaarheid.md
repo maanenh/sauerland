@@ -24,10 +24,12 @@ ul.price-list {
 
 
 <div class="leftCol">
-    <iframe height="350" src="https://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe>
+
+    {: $React RentalView}
 </div>
 
 <div class="rightCol">
+    iframe height="350" src="https://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe
     <h2>Verhuur</h2>
     <p>
     Wij verhuren het huisje graag voor een redelijk bedrag aan familie, vrienden en bekenden.
