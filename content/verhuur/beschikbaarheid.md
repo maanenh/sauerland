@@ -22,7 +22,7 @@
 {: $React RentalView}
 
 
-<div class="rightCol">
+<p class="rightCol">
     <h2>Verhuur</h2>
     <p>
     Wij verhuren het huisje graag voor een redelijk bedrag aan familie, vrienden en bekenden.
@@ -41,7 +41,7 @@
     In de tabel worden de periodes getoond waarin het huisje bezet is. 
     Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de eerste kolom. 
     </p>
-</div>
+</p>
 
 
 <p style="clear:both;" />
