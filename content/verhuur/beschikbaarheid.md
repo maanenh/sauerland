@@ -46,8 +46,6 @@
 
 <p style="clear:both;" />
 
-{: $React RentalView .leftCol }
-
 
 ## Voorzieningen
 
