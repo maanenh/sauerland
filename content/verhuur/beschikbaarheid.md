@@ -23,7 +23,6 @@ ul.price-list {
 </style>
 
 
-{: .float-right}
 {: $React RentalView}
 
 
@@ -34,7 +33,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p style="clear:both;" />
 
 
-{: .leftCol}
 {: $React RentalView}
 
 
