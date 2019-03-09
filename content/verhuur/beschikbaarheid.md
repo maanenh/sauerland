@@ -34,17 +34,15 @@
     </p>
     <h2>Optie regeling</h2>
     <p>
-    Het is ook mogelijk een optie op verhuur te nemen. Zodra er een andere huurder voor dezelfde periode komt zult u
+    Het is ook mogelijk een optie op huur te nemen. Zodra er een andere huurder voor dezelfde periode komt zult u
     definitief moeten beslissen of de huur doorgaat. 
-    </p>
-    <p>
-    In de tabel worden de periodes getoond waarin het huisje bezet is. 
-    Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de eerste kolom. 
     </p>
 </div>
 
 
 <p style="clear:both;" />
+In de tabel worden de periodes getoond waarin het huisje bezet is. 
+Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de eerste kolom. 
 
 
 ## Voorzieningen
