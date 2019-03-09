@@ -16,10 +16,6 @@
 	width: 60%;
 	margin-right: 25px;
 }
-ul.price-list {
-	 margin-left: 10px;
-	 padding: 0 0 0 12px;
-}
 </style>
 
 
@@ -27,7 +23,6 @@ ul.price-list {
 
 
 <div class="rightCol">
-    iframe height="350" src="https://sauerland-calendar-viewer.appspot.com/" frameborder="0" width="260" markdown="1">abc</iframe
     <h2>Verhuur</h2>
     <p>
     Wij verhuren het huisje graag voor een redelijk bedrag aan familie, vrienden en bekenden.
@@ -37,23 +32,32 @@ ul.price-list {
     Het is dan voor elke periode te huur. Aankomst vanaf 13:00 uur, vertrek voor 12:00 uur.  
     Andere aankomst- of vertrektijd of eerder dan 6 maanden boeken kan in overleg.
     </p>
-    <h2>Voorzieningen</h2>
+    <h2>Optie regeling</h2>
     <p>
-        <a href="./het-huisje#voorzieningen">Zie hier voor de voorzieningen.</a>
+    Het is ook mogelijk een optie op verhuur te nemen. Zodra er een andere huurder voor dezelfde periode komt zult u
+    definitief moeten beslissen of de huur doorgaat. 
     </p>
-    <div>
-        <h2>Kosten</h2>
-        <ul class="price-list">
-            <li>€ 35,- per nacht, ongeacht het aantal personen (max. 6).</li>
-            <li>€ 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)<br>
-            Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.</li>
-            <li>In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50</li>
-        </ul>
-    </div>
+    <p>
+    In de tabel worden de periodes getoond waarin het huisje bezet is. 
+    Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de eerste kolom. 
+    </p>
 </div>
 
 
 <p style="clear:both;" />
+
+
+##Voorzieningen
+
+[Zie hier voor de voorzieningen.](./het-huisje#voorzieningen)
+
+##Kosten
+
+* € 35,- per nacht, ongeacht het aantal personen (max. 6).
+* € 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)
+  Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.
+* In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50<
+
 
 
 Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
