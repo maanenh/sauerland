@@ -47,17 +47,16 @@
 <p style="clear:both;" />
 
 
-##Voorzieningen
+## Voorzieningen
 
 [Zie hier voor de voorzieningen.](./het-huisje#voorzieningen)
 
-##Kosten
+## Kosten
 
 * € 35,- per nacht, ongeacht het aantal personen (max. 6).
 * € 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem)
   Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.
 * In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 7,50<
-
 
 
 Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
