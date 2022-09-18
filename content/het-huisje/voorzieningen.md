@@ -22,3 +22,5 @@ Verder zijn in het huis aanwezig:
 
 Bij het huis is een grote tuin die zeer veel speelruimte biedt voor kinderen.
 
+Helaas is er geen WIFI in het huisje. Dit omdat er geen telefoon- of andere kabel is in het Feriendorf aanwezig is.
+
