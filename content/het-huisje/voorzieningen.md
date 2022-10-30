@@ -3,11 +3,11 @@ Het vakantiehuisje is volledig ingericht voor maximaal 6 personen en heeft de vo
 
 * een woonkamer met een zitgedeelte en een eethoek.
 * een open keuken voorzien van
- * koelkast,
- * elektrisch fornuis (4-pits) met oven,
- * senseo koffiezetapparaat
- * nespresso koffiezetapparaat (s.v.p. uitsluitend orginele nespresso cupjes gebruiken)
- * waterkoker.
+* koelkast,
+* elektrisch fornuis (4-pits) met oven,
+* senseo koffiezetapparaat
+* nespresso koffiezetapparaat 
+* waterkoker.
 * een balkon grenzend aan de keuken en eethoek. een badkamer met wastafel, toilet en douche.
 * twee slaapkamers en een overloop met 4 éénpersoonsbedden en 1 tweepersoonsbed, voorzien van goede matrassen, kussens en dekbedden
 

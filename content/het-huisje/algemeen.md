@@ -24,7 +24,6 @@ Het huisje zelf is plezierig eenvoudig en goed ingericht.
 We verhuren het huisje graag aan vrienden en bekenden. Zie de [Verhuur pagina](./verhuur#top) voor informatie over huren.
 
 
-Lies Pol  
 Guus Pol  
 Wim van der Laan  
 Hanno van Maanen
