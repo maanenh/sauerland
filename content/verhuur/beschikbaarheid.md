@@ -51,10 +51,10 @@ Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de
 
 ## Kosten
 
-* € 45,- per nacht, ongeacht het aantal personen (max. 6).
+* € 50,- per nacht, ongeacht het aantal personen (max. 6).
 * € 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem).  
   Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.
-* In de winterperiode (15 oktober tot en met 15 maart) geldt per dag een extra stooktoeslag van € 10,-
+* In de winterperiode (1 oktober tot en met 30 april) geldt per dag een extra stooktoeslag van € 15,-
 
 
 Voor meer informatie kunt u contact opnemen met Guus Pol. [Zie de contact pagina](./contact#top)
