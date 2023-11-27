@@ -10,14 +10,15 @@
 {: .float-right .max-50}
 ![sneeuwlandschap](../../fotos/img_0080.jpg)
 
-In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig zijn.
+In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig.
+Deze beschrijvingen worden ook via mail naar huurders gestuurd.
 
 Tevens is een topografische kaart van het gebied aanwezig.
 
+We hebben ook een aantal GPX routes beschikbaar. Deze zijn te downloaden via deze link: [GPX Routes download](https://drive.google.com/drive/folders/1wsDwTVlzCUB7dHdc8c4UmmX23gleA8Nr)
 
-Zie [www.rothaarsteig.de](http://www.rothaarsteig.de) voor informatie over de rothaarsteig.
 
-
+---
 
 De volgende routebeschrijvingen zijn aanwezig: 
 
