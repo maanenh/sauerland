@@ -14,9 +14,7 @@
 }
 </style>
 
-
-{: .float-right .img-right}
-![](../../fotos/oberhundem4.gif)
+<span class="float-right img-right">![](../../fotos/oberhundem4.gif)</span>
 
 [www.oberhundem.com](http://www.oberhundem.com)  
 [www.oberhundem-das-dorf.de](http://www.oberhundem-das-dorf.de)  
