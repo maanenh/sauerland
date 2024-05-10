@@ -19,7 +19,7 @@
 
 
 
-[Klik hier](/content/informatie#sneeuwverwachting) voor links naar actuele sneeuwberichten.
+[Klik hier](./informatie#sneeuwverwachting) voor links naar actuele sneeuwberichten.
 
 Winterberg en Willingen zijn de bekendste wintersportplaatsen in het Sauerland. Winterberg ligt op ca 45 km afstand. Willingen op is ruim 65. 
 
