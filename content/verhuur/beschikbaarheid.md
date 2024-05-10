@@ -1,5 +1,5 @@
 
-<style type="text/css" markdown="1">
+<style markdown="1">
 .leftCol {
 	float: left;
 	display: block;
@@ -19,7 +19,9 @@
 </style>
 
 
-{: .leftCol $React RentalView}
+[//]: # ({: .leftCol $React RentalView})
+
+<span class="leftCol">{: $React RentalView}</span>
 
 
 <div class="rightCol">
