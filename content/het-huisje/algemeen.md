@@ -5,8 +5,6 @@
 </style>
 
 
-{: .float-right .max-50}
-
 <span class="float-right max-50">
 
 ![image](../../fotos/winter/foto1.jpg)<br/><br/><br/><br/><br/>
@@ -19,8 +17,6 @@ In de winter, als er sneeuw ligt, kun je er prima langlaufen. Maar ook zonder sn
 Het huisje ligt buiten Oberhundem op een stuk grond met meerdere huisjes. Sommige huisjes worden permanent gebruikt en sommige alleen als vakantiehuisje.
 Er is een grote tuin en dus zie of hoor je de buren niet. Het is er heerlijk rustig met veel groen een prettige atmosfeer.
 Het huisje zelf is plezierig eenvoudig en goed ingericht.
-
-{: .d-none .d-md-block}
 
 <span class="d-none d-md-block">![image](../../fotos/winter/foto2.jpg)</span>
 
