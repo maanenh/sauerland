@@ -21,7 +21,13 @@
 
 [//]: # ({: .leftCol $React RentalView})
 
-<span class="leftCol">{: $React RentalView}</span>
+<span class="leftCol">
+
+###### RentalView
+
+</span>
+
+<span class="leftCol">__abd__</span>
 
 
 <div class="rightCol">
