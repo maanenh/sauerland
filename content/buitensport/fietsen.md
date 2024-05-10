@@ -6,9 +6,7 @@
 }
 </style>
 
-
-{: .float-right .img-right}
-![fiets](../../fotos/fietsen.jpg)
+<span class="float-right img-right">![fiets](../../fotos/fietsen.jpg)</span>
 
 #### Huur
 

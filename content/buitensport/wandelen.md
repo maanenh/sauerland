@@ -7,8 +7,7 @@
 </style>
 
 
-{: .float-right .max-50}
-![sneeuwlandschap](../../fotos/img_0080.jpg)
+<span class="float-right max-50">![sneeuwlandschap](../../fotos/img_0080.jpg)</span>
 
 In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig.
 Deze beschrijvingen worden ook via mail naar huurders gestuurd.

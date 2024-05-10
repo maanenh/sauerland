@@ -19,8 +19,8 @@ Enkele links:
 
 &nbsp; 
 
-{: .float-right .max-50}
-![rothaarLoipe](../../fotos/img_0078.jpg)
+<span class="float-right max-50">![rothaarLoipe](../../fotos/img_0078.jpg)</span>
+
 
 &nbsp;
 
@@ -29,8 +29,7 @@ Höhendifferenz 160 m ; Rhein-Weser-Turm  -  Jagdhaus – Kühhude – Albrechts
 
 <p style="clear:both;" />
 
-{: .float-right .max-50}
-![knulleLoipe](../../fotos/img_0079.jpg)
+<span class="float-right max-50">![knulleLoipe](../../fotos/img_0079.jpg)</span>
 
 &nbsp;<br/>
 

@@ -27,8 +27,8 @@ Dichterbij ligt Schmallenberg. Informatie op [www.schmallenberg.de](http://www.s
 en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 
 ---
-{: .float-right .img-right}
-![pistenplan](../../fotos/pistenplan.jpg)
+<span class="float-right img-right">![pistenplan](../../fotos/pistenplan.jpg)</span>
+
 
 
 &nbsp;
@@ -53,8 +53,8 @@ Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 
 ---
 
-{: .float-right .img-right}
-![pisteOberhundem](../../fotos/pisteOberhundem.jpg)
+
+<span class="float-right img-right">![pisteOberhundem](../../fotos/pisteOberhundem.jpg)</span>
 
 
 #### Skipiste Oberhundem
