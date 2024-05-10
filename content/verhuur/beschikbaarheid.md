@@ -27,8 +27,6 @@
 
 </span>
 
-<span class="leftCol">__abd__</span>
-
 
 <div class="rightCol">
     <h2>Verhuur</h2>
