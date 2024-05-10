@@ -21,5 +21,7 @@ In de NKBV-webshop kun je de [klimtopo van het Sauerland](https://www.nkbvwebsho
 ### Lokaties van de klimrotsen
 Hieronder op de kaart de kliklocaties. Door te klikken op de "markers" is meer informatie te krijgen.
 
-{: $React ClimbingMap}
+[//]: # ({: $React ClimbingMap})
+
+###### ClimbingMap
 
