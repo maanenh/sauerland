@@ -5,29 +5,24 @@ Feriendorf 4<br/>
 
 #### Routebeschrijving vanaf Arnhem naar Oberhundem
 
-Eerst over de snelweg naar Olpe:
+_Vanwege problemen met de brug bij Lüdenscheid kan de route via de Sauerland Autobahn (A45) beter vermeden worden_
 
-* vanaf Arnhem richting Oberhausen, A12 (Nederland) en A3 (Duitsland)
-* na ca. 80 km ter hoogte van Oberhausen (afslag 10) de A2 richting Hannover nemen
-* na ca. 35 km voor Dortmund (afslag 12) de A45 richting Frankfurt nemen
-* na ca. 85 km afslag 18 Olpe nemen.
+[Zie hier voor een artikel over het vervangen van de brug](https://www.adac.de/der-adac/regionalclubs/nrw/verkehr-sicherheit/a45-sperrung-gesperrt/)
 
+Alternatieven zijn
+* Via Keulen
+* Via Dortmund
 
-Van Olpe naar het huisje is nog zo'n 35 kilometer (over kleine wegen).
-Eerst Olpe stad aanhouden en vervolgens B54/55 richting "Panoramapark" (N.B. het huisje ligt vlakbij dit Panoramapark!). De B55 ongeveer 10 kilometer volgen, dan bij een rotonde rechtsaf richting Kirchhundem / Panoramapark. Richting Kirchhundem / Panoramapark ca. 20 km blijven volgend. Dan in Kirchhundem naar Oberhundem.
+In beide gevallen kom je uiteindelijk langs Kirchhundem. Vanaf Kirchhundem rijd je naar Oberhundem.
 
 Bij Oberhundem niet links het dorp in maar rechtdoor richting Panoramapark. Let op: na 300 meter rechts naar beneden, wegwijzer o.a. Feriendorf. Dan op een driesprong bij een voetbalveld rechts aanhouden (wegwijzer Feriendorf).
 
 Het park is na 150 meter aan de linkerkant (direct na een blok garages). Er gaat een weggetje omhoog het park in (wegwijzer Feriendorf), dan het eerste huisje aan de rechterkant.
 
-Totale afstand vanaf Arnhem: 245 kilometer.
 
 Voor de GPS: UTM-coördinaten 32U 0442344/5658916
 
-Voor de routeplanner: de postcode is 57399
 
-
-![](../../fotos/arnhemOberhundem2.gif)
 <br><br>
 ![](../../fotos/Oberhundem2.gif)
 

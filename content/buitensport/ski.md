@@ -24,7 +24,9 @@
 Winterberg en Willingen zijn de bekendste wintersportplaatsen in het Sauerland. Winterberg ligt op ca 45 km afstand. Willingen op is ruim 65. 
 
 Dichterbij ligt Schmallenberg. Informatie op [www.schmallenberg.de](http://www.schmallenberg.de) 
-en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
+en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de) en [hier](https://www.wintersport-arena.de/skifahren-boarden/skigebiete-und-schneehoehen/detailansicht/schmallenberger-hoehenlift)
+
+[Klik hier voor informatie over skiliften en langlauf in Sauerland](https://www.wintersport-arena.de/)
 
 ---
 <span class="float-right img-right">![pistenplan](../../fotos/pistenplan.jpg)</span>
@@ -38,8 +40,8 @@ en [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 Op circa 20 km afstand ligt Fahlenscheid ([www.fahlenscheid.de](http://www.fahlenscheid.de)). 
 Dit gebied ligt tussen het huisje en de autoweg A45 (ri. Dortmund).
 
+[Zie ook hier](https://www.wintersport-arena.de/skifahren-boarden/skigebiete-und-schneehoehen/detailansicht/skigebiet-fahlenscheid)
 
-&nbsp;
 
 &nbsp;
 
@@ -74,5 +76,4 @@ Kinderen     € 3,30
 
 Skihut aanwezig, geen materiaal huur
 
-[Klik hier voor meer info](https://www.skiresort.nl/skigebied/oberhundem-kirchhundem/)
 
