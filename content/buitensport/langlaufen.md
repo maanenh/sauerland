@@ -11,10 +11,10 @@ In de omgeving van het huisje zijn prachtige langlauftochten te maken. Bij veel 
 
 Enkele links:
 
-* Langlauf [Rhein-Wesser-Turm](https://www.sauerland.com/Media/Attraktionen/Langlaufgebiet-Rhein-Weser-Turm)
-* Loipe [Klein Rothhaarloipe](http://www.loipenportal.de/sauerland?sid=10580)
-* Loipe [Knulle Loipe](http://www.loipenportal.de/sauerland?sid=10577)
-* Loipe [Margarethenstein-Loipe](http://www.loipenportal.de/sauerland?sid=10330)
+* [Overzicht loipes](https://www.wintersport-arena.de/nordisch/loipengebiete-und-schneehoehen)  
+Zoek op "Rhein-Weser-Turm" voor de loipes in de omgeving van het huisje.
+* [Loipenportal](https://www.loipenportal.de/sauerland?sid=10577)  
+  Zoek op "Rhein-Weser-Turm" voor de loipes in de omgeving van het huisje.
 
 
 &nbsp; 
