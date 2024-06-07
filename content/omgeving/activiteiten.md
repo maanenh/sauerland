@@ -7,7 +7,7 @@
 [www.schmallenberger-sauerland.de](http://www.schmallenberger-sauerland.de)
 * minigolf in Schmallenberg
 * Ponyhof Rohde in Kirchhundem (voor de kinderen), Varster Str. 23, telefoon 02764 - 939158
-* [Panoramapark](#panoramapark) op slechts enkele kilometers
+* [Panoramapark](./omgeving#panoramapark) op slechts enkele kilometers
 * Atta grot   (druipsteengrot )  
 32 km afstand   Zie: [www.atta-hoehle.de](http://www.atta-hoehle.de)  
 Atta-Höhle  
@@ -23,7 +23,7 @@ Hauptstrasse 3
 57399 Kirchhundem – Oberhundem  
 Telefoon: (+49) 02723-719121  
 [www.bad-am-rothaarsteig.de](http://www.bad-am-rothaarsteig.de)  
-[www.oh-wellness.de](http://www.oh-wellness.de)
+
 * In Lennestadt is een buitenzwembad.
-* Zwemband (buiten, binnen en sauna) in Schmallenberg, [www.sauerland-bad.de](http://www.sauerland-bad.de)
+* Zwemband (buiten, binnen en sauna) in Schmallenberg, [www.sauerland-bad.de](https://sauerland-bad.de/nl/)
 
