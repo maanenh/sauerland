@@ -58,8 +58,14 @@ Periodes waarvoor een optie genomen is worden getoond met te tekst "Optie" in de
 ## Kosten
 
 * € 50,- per nacht, ongeacht het aantal personen (max. 6).
-* € 0,80 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem).  
-  Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.
+* Toeristenbelasting:  
+  * € 1,50 per persoon, per nacht, toeristenbelasting (gemeente Kirchhundem).  
+    Kinderen zijn vrijgesteld tot en met het jaar waarin ze 16 worden.
+  * Voor het registreren van de toeristenbelasting zijn voor iedere gast de volgende gegevens nodig:  
+    * Naam
+    * Adres
+    * Geboortedatum
+    * Paspoortnummer, Rijbewijs of ID-nummer
 * In de winterperiode (1 oktober tot en met 30 april) geldt per dag een extra stooktoeslag van € 15,-
 
 
