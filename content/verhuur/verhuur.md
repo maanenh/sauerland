@@ -21,6 +21,7 @@ Op alle andere data is het huisje nog vrij.
 
 <br/>
 <br/>
+
 ## Voorzieningen
 
 [Zie hier voor de voorzieningen.](./het-huisje#voorzieningen)
