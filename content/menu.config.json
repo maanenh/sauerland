@@ -29,12 +29,12 @@
 			{"title": "Skiën", "id": "Ski"},
 			{"title": "Langlaufen"},
 			{"title": "Klimmen"}
-			]
+		 ]
 		},
 		{"title": "Verhuur",
-		 "sub": [
-			{"title": "Beschikbaarheid"}
-			]
+			 "sub": [
+				{"title": "Verhuur"}
+			 ]
 		},
         {"title": "Informatie",
             "sub": [
