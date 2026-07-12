@@ -9,17 +9,19 @@
 
 <span class="float-right max-50">![sneeuwlandschap](../../fotos/img_0080.jpg)</span>
 
-In de omgeving van het huisje zijn prachtige wandelingen te maken. Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig.
+In de omgeving van het huisje zijn prachtige wandelingen te maken: 
+* Routebeschrijvingen van een aantal wandelingen zijn in het huis aanwezig.
 Deze beschrijvingen worden ook via mail naar huurders gestuurd.
 
-Tevens is een topografische kaart van het gebied aanwezig.
+* Daarnaast hebben we ook een aantal GPX routes beschikbaar. Deze zijn te downloaden via deze link: [GPX Routes download](https://drive.google.com/drive/folders/1wsDwTVlzCUB7dHdc8c4UmmX23gleA8Nr)
 
-We hebben ook een aantal GPX routes beschikbaar. Deze zijn te downloaden via deze link: [GPX Routes download](https://drive.google.com/drive/folders/1wsDwTVlzCUB7dHdc8c4UmmX23gleA8Nr)
+* Wandeltip voor ouders met jonge kinderen:  
+*Bij Landgasthof Gut Ahe, 15 minuten rijden, is een wildedieren-wandelroute met aan het eindpunt een houten knikkerbaan. Op de route kun je 33 wilde dieren spotten. Aan het eindpunt wacht een terras waar je koffie en meer kunt drinken en taart eten. De route is 2,5 km en kan natuurlijk langer worden gemaakt. Echt een aanrader*
 
 
 ---
 
-De volgende routebeschrijvingen zijn aanwezig: 
+### De volgende routebeschrijvingen worden via mail verstuurd en zijn in het huisje aanwezig: 
 
 ---
 
