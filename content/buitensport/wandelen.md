@@ -21,7 +21,7 @@ Deze beschrijvingen worden ook via mail naar huurders gestuurd.
 
 ---
 
-### De volgende routebeschrijvingen worden via mail verstuurd en zijn in het huisje aanwezig: 
+De volgende routebeschrijvingen worden via mail verstuurd en zijn in het huisje aanwezig: 
 
 ---
 
